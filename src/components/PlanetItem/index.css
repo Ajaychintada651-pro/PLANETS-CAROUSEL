@@ -1,0 +1,13 @@
+.planet-image {
+  height: 300px;
+  width: 300px;
+  align-self: center;
+}
+
+.planet-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+  color: #ffffff;
+}
